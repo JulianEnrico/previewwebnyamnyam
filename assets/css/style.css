@@ -12353,6 +12353,7 @@ ul.dropdown-content > .dropdown-trigger:hover > ul.dropdown-content > li:hover >
   line-height: 40px;
   text-align: center;
   width: 40px;
+  margin-right: 32px;
 
   -webkit-transition: all 0.35s;
   transition: all 0.35s;
