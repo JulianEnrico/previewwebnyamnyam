@@ -12241,7 +12241,7 @@ ul.dropdown-content > .dropdown-trigger:hover > ul.dropdown-content > li:hover >
 @media only screen and (max-width: 991px) {
   .site-footer {
     padding: -23px 0 60px;
-    position: absolute;
+    position: initial;
   }
 }
 .site-footer .footer-top-shape {
