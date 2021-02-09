@@ -91,6 +91,11 @@ Version: 1.0
 /*--------------------------------------------------------------
 # Typography
 --------------------------------------------------------------*/
+@font-face {
+  font-family: PoetsenOne;
+  src: url(../webfonts/PoetsenOne-Regular.ttf);
+}
+
 html {
   font-size: 100%;
 }
@@ -214,7 +219,7 @@ h4 a:hover {
   line-height: 1.05em;
   margin-bottom: 17px;
   text-transform: capitalize;
-  font-family: "cookies", cursive;
+  font-family: PoetsenOne;
 }
 @media only screen and (max-width: 991px) {
   .section-title .title-main {
@@ -6146,6 +6151,11 @@ ul.dropdown-content > .dropdown-trigger:hover > ul.dropdown-content > li:hover >
   background-position: top;
   padding: 440px 0 100px;
 }
+/*.hero-block.style-two {
+    background-position: top;
+    padding: 440px 0 270px;
+}*/
+
 @media only screen and (max-width: 1199px) {
   .hero-block.style-two {
     padding: 60px 0 70px;
