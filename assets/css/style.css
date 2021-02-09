@@ -102,7 +102,7 @@ body {
   font-weight: normal;
   line-height: 1.5em;
   color: #0a303a;
-  zoom: 75%;
+  zoom: 75% !important;
 }
 
 /*-------------------------------------------------
