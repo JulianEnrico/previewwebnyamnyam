@@ -12473,3 +12473,7 @@ ul.dropdown-content > .dropdown-trigger:hover > ul.dropdown-content > li:hover >
 .footer-bottom-area {
   padding: 15px 0;
 }
+
+.img-background {
+  width: 100%;
+}
