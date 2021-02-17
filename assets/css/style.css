@@ -4284,6 +4284,7 @@ label {
   color: #2a2a2a;
   margin-bottom: 10px;
   display: block;
+
 }
 
 ::-webkit-input-placeholder {
@@ -4876,7 +4877,7 @@ input[type="radio"]:checked + label:before {
   justify-content: flex-end;
 }
 .navigation-area .header-navigation-right .contact-info {
-  font-size: 16px;
+  font-size: 25px;
   font-weight: 800;
   font-family: "Roboto", sans-serif;
   color: white;
@@ -4978,7 +4979,7 @@ a:hover, a:active {
   text-transform: capitalize;
   -webkit-transition: all 0.35s ease 0s;
   transition: all 0.35s ease 0s;
-  font-size: 16px;
+  font-size: 21px;
   font-weight: 800;
 }
 .menu > ul > li:hover > a,
@@ -4988,6 +4989,7 @@ a:hover, a:active {
 .menu > ul > li > a {
   padding: 30px 15px;
   font-weight: 800;
+  font-size: 23px ;
 }
 .menu > ul > li:first-child > a {
   padding-left: 0px;
