@@ -27,7 +27,7 @@
   font-family: Flaticon;
   font-style: normal;
 }
-
+.flaticon-tiktok:before { content: "\e07b"; }
 .flaticon-teacher:before { content: "\f100"; }
 .flaticon-clock:before { content: "\f101"; }
 .flaticon-placeholder:before { content: "\f102"; }
